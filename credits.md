@@ -1,6 +1,6 @@
 ## Credits
 
-This project is maintained by <a href="github.com/exvacuum">Silas Bartha</a>
+This project is maintained by <a href="https://github.com/exvacuum">Silas Bartha</a>
 
 Powered by <a href="https://github.com/Drassil/git-wiki-theme">Git-Wiki</a>
 
