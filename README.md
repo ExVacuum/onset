@@ -1,4 +1,4 @@
-# Open Notes for SET
+# Open Notes for SET (ONSET)
 
 A collection of notes for the Conestoga College SET program, for reference purposes.
 
