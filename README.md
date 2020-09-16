@@ -11,3 +11,5 @@ It is highly recommended that students referencing the **ONSET** library make co
 This site will be periodically updated from the collaborative DOCX file, which can be found [here](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/sbartha6300_conestogac_on_ca/ESzjif-lHWxCoGsh8Ha5ZDABnOMBztX4DmEkL8leI4FcVQ?e=RdYcI2). You must be a member of Conestoga College in order to make edits to this document.
 
 Contributions can also be made via GitHub, if you have a basic understanding of markdown.
+
+If you contribute to the site, feel free to add your name/username to [credits.md](https://setnotes.cc/credits).
