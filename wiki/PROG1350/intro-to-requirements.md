@@ -1,6 +1,7 @@
 # Module 1: Intro to Requirements
 
 ### [PROG1350 - Software Engineering Fundamentals](/PROG1350)
+Contributors: [Silas Bartha](https://exvacuum.dev)
 
 ## Associated Reading
 
