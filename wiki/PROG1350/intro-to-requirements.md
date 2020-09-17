@@ -8,30 +8,40 @@ Contributors: [Silas Bartha](https://exvacuum.dev)
   - Code Complete, 2nd Edition (ISBN 9788178530857):
     - Chapter 3
     
-    <details>
+   <details>
     <summary>Some key ideas:</summary>
-    
-      - Emphasizing construction practices emphasizes quality during the middle of the project.
-      - The goal of preparation is to reduce large amounts of **risk**, and prerequisites help with this.
-      - Oftentimes, it isn't practical to specify all of a project's requirements up front, but getting most of the critical ones idetified early on will save you a lot of grief. 
-      Some strategies for this include:
-        - Plan 80% of requirements up front, and plan time to identify the rest in the development process.
-        - Plan the most important 20% of requirements up front, and then specify the rest in small intervals as you go. Oftentimes this is easier to do.
-      - A good problem definition helps to lay the foundation for the requirements, and in turn the rest of the development process.
-      - Problem definitions should be in user language, **not** over-complicated computer talk, as programming may not always be the best solution.
-      - If a problem is ill-defined, you may waste time solving the wrong problem.
-      - Requirements help to minimize the changes necessary in the middle of development. Consider:
-        - A *coding* error may mean you need to rework a small portion of the code.
-        - A *requirements* error, on the other hand, may mean you need to rework large portions if not all of the code.
-      - A requirements checklist is included in this chapter in order to help assess the quality of your requirements. A DOCX version is available [here](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/sbartha6300_conestogac_on_ca/EfZalsKclVdIpzb_cO7cgU8B-aINI9LN-j5rgjkuBAdJYA?e=KaworF).
+    <ul>
+      <li>Emphasizing construction practices emphasizes quality during the middle of the project.</li>
+      <li>The goal of preparation is to reduce large amounts of <strong>risk</strong>, and prerequisites help with this.</li>
+      <li>Oftentimes, it isn&#39;t practical to specify all of a project&#39;s requirements up front, but getting most of the critical ones idetified early on will save you a             lot of grief. Some strategies for this include:
+        <ul>
+          <li>Plan 80% of requirements up front, and plan time to identify the rest in the development process.</li>
+          <li>Plan the most important 20% of requirements up front, and then specify the rest in small intervals as you go. Oftentimes this is easier to do.</li>
+        </ul>
+      </li>
+      <li>A good problem definition helps to lay the foundation for the requirements, and in turn the rest of the development process.</li>
+      <li>Problem definitions should be in user language, <strong>not</strong> over-complicated computer talk, as programming may not always be the best solution.</li>
+      <li>If a problem is ill-defined, you may waste time solving the wrong problem.</li>
+      <li>Requirements help to minimize the changes necessary in the middle of development. Consider:
+        <ul>
+          <li>A <em>coding</em> error may mean you need to rework a small portion of the code.</li>
+          <li>A <em>requirements</em> error, on the other hand, may mean you need to rework large portions if not all of the code.</li>
+        </ul>
+      </li>
+      <li>A requirements checklist is included in this chapter in order to help assess the quality of your requirements. A DOCX version is available 
+        <a href="https://stuconestogacon-my.sharepoint.com/:w:/g/personal/sbartha6300_conestogac_on_ca/EfZalsKclVdIpzb_cO7cgU8B-aINI9LN-j5rgjkuBAdJYA?e=KaworF">here</a>.
         please save a copy, rather than editing this one directly.
-      - It is vital to ensure that everyone is aware of the costs of changes to the requirements. In order to help mitigate these cahnges:
-        - Establish a system for handling requested changes to the requirements
-        - Use short, incremental development stages in order to accomodate changes more easily as you go.
-      - The quality of high-level program architecture determines a system's conceptual integrity, and in turn its final quality.
-      - Good architecture makes construction easy, bad architecture makes construction impossible.
-        
-      </details>
+      </li>
+      <li>It is vital to ensure that everyone is aware of the costs of changes to the requirements. In order to help mitigate these cahnges:
+        <ul>
+          <li>Establish a system for handling requested changes to the requirements</li>
+          <li>Use short, incremental development stages in order to accomodate changes more easily as you go.</li>
+        </ul>
+      </li>
+      <li>The quality of high-level program architecture determines a system&#39;s conceptual integrity, and in turn its final quality.</li>
+      <li>Good architecture makes construction easy, bad architecture makes construction impossible.</li>
+    </ul>
+   </details>
       
 ## Module Content
 
