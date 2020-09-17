@@ -169,3 +169,7 @@ An SRS must include the following to be complete:
 - Definition of the responses of the software to all realizable classes of input
 - Conformity to all applicable standards
 - Full labeling and referencing of all tables and diagrams and the definition of all terms
+
+## References
+- Code Complete, Second Edition
+  - p 23-60
