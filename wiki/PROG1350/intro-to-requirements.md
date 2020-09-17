@@ -170,6 +170,21 @@ An SRS must include the following to be complete:
 - Conformity to all applicable standards
 - Full labeling and referencing of all tables and diagrams and the definition of all terms
 
+## Q/A (2020-09-17)
+
+**Q: What is a *software system*?**
+
+A:
+> A software system can be any piece of software
+> Even a single executable could be considered a system
+> In many cases, a software system *will* consist of many
+> programs with a shared ultimate goal.
+
+**Q: What is *upstream work*?**
+
+A:
+> Upstream work refers to work done in the early phases of the SDLC.
+
 ## References
 - Code Complete, Second Edition
   - p 23-60
