@@ -1,3 +1,7 @@
+---
+permalink: /SENG1000/marking
+---
+
 # Marking for the C Programming Course
 ### [SENG1000 - C\\C++ Programming](/SENG1000)
 Contributors: [Silas Bartha](https://exvacuum.dev)
