@@ -1,3 +1,7 @@
+---
+permalink: /PROG1350/intro-to-requirements
+---
+
 # Module 1: Intro to Requirements
 
 ### [PROG1350 - Software Engineering Fundamentals](/PROG1350)
